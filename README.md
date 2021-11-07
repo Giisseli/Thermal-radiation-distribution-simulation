@@ -8,4 +8,4 @@ View_Factor.m contains a function used in this simulation for calculating view f
 1000Wpanel2.csv includes temperature distribution data of a high powered thermal radiation source.  This data was obtained with an infra-red camera.
 
 Further instructions included in comments.
-Use with MATLAB R2020b or newer
+Use with MATLAB R2020b or newer.
